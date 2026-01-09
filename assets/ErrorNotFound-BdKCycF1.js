@@ -1,5 +1,0 @@
-<<<<<<<< HEAD:assets/ErrorNotFound-BT2fPk_t.js
-import{F as o,v as s,E as t,z as l,Q as r}from"./index-DWMLew3z.js";const a={class:"fullscreen bg-blue text-white text-center q-pa-md flex flex-center"},d={__name:"ErrorNotFound",setup(n){return(c,e)=>(s(),o("div",a,[t("div",null,[e[0]||(e[0]=t("div",{style:{"font-size":"30vh"}}," 404 ",-1)),e[1]||(e[1]=t("div",{class:"text-h2",style:{opacity:".4"}}," Oops. Nothing here... ",-1)),l(r,{class:"q-mt-xl",color:"white","text-color":"blue",unelevated:"",to:"/",label:"Go Home","no-caps":""})])]))}};export{d as default};
-========
-import{F as o,v as s,E as t,z as l,Q as r}from"./index-BazsH1eT.js";const a={class:"fullscreen bg-blue text-white text-center q-pa-md flex flex-center"},d={__name:"ErrorNotFound",setup(n){return(c,e)=>(s(),o("div",a,[t("div",null,[e[0]||(e[0]=t("div",{style:{"font-size":"30vh"}}," 404 ",-1)),e[1]||(e[1]=t("div",{class:"text-h2",style:{opacity:".4"}}," Oops. Nothing here... ",-1)),l(r,{class:"q-mt-xl",color:"white","text-color":"blue",unelevated:"",to:"/",label:"Go Home","no-caps":""})])]))}};export{d as default};
->>>>>>>> 78a6b8f332c5a281a9d7d17811c206babba0876d:assets/ErrorNotFound-BdKCycF1.js
